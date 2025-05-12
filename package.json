@@ -1,8 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mileidy Aular",
-	"version": "1.0.0",
-	"description": "creacion de apis",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,6 +10,12 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Micauar/boilerplate-npm.git"
+	},
+	"author": {
+  	"name": "Mileidy Aular",
+	"version": "1.0.0",
+	"description": "creacion de apis",
+  	"email": "aularmileidy@gmail.com",
+  	"url": "https://github.com/Micauar/boilerplate-npm.git"
 	}
-
 }
