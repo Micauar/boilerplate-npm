@@ -11,8 +11,8 @@
 		"type": "git",
 		"url": "https://github.com/Micauar/boilerplate-npm.git"
 	},
-	"author": {
-  	"name": "Mileidy Aular",
+	"proyecto": {
+  	"author": "Mileidy Aular",
 	"version": "1.0.0",
 	"description": "creacion de apis",
   	"email": "aularmileidy@gmail.com",
